@@ -11,3 +11,8 @@ amupdatedl5.microsoft.com
 dl.delivery.mp.microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
+security.ubuntu.com
+archive.ubuntu.com
+ca.archive.ubuntu.com
+security.debian.org
+download.proxmox.com
